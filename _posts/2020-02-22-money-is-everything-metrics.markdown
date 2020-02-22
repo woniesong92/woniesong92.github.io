@@ -3,6 +3,7 @@ layout: post
 title: "돈이 전부다"
 date: 2020-02-21 06:00:00 -0800
 categories: startup
+thumbnail: /assets/posts/money.jpg
 ---
 
 ![Microsoft Badge](/assets/posts/money.jpg){: width="300" }

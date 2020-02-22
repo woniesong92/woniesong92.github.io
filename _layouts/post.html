@@ -13,6 +13,8 @@
         margin: 20px;
       }
     </style>
+    {% if jekyll.environment == 'production' %} {% include ga.html %} {% endif
+    %}
   </head>
   <body>
     <section>

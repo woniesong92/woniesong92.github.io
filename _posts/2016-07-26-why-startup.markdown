@@ -7,7 +7,7 @@ categories: startup
 
 난 코넬 대학교를 졸업한 뒤 첫 직장으로 마이크로소프트를 버리고 직원이 10명도 채 안되는 스타트업을 선택했다. 오늘의 글은 내가 왜 이런 결정을 내렸는지 설명하는 글이다.
 
-![Microsoft Badge](/assets/posts/2016-07-26-why-startup/badge.jpg){: width="400" }
+![Microsoft Badge](/assets/posts/2016-07-26-why-startup/badge.jpg){: width="300" }
 
 사원증
 
@@ -27,7 +27,7 @@ categories: startup
 
 논리적으론 내가 직접 창업을 해야했지만 나는 아쉽게도 유명한 누구들 처럼 집 창고에서 혼자만의 사업에 올인할 정도의 깡은 없었다. 그런데 마침 그때 샌프란시스코에서 스타트업을 먼저 시작한 친구가 고맙게도 일을 같이 하자고 제안을 해줬고 그렇게 나는 “내 일”을 할 수 있는 자리로 들어가게 되었다.
 
-![Fountain, 2016](/assets/posts/2016-07-26-why-startup/obiq.jpg){: width="400" }
+![Fountain, 2016](/assets/posts/2016-07-26-why-startup/obiq.jpg){: width="300" }
 
 내가 합류한 스타트업을 간략하게 설명하면 이름은 OnboardIQ 이고 하는 일은 사내 채용 시스템을 자동화 시켜주는 솔루션 (i.e Software As A Service) 을 제공한다. 주 고객은 On-demand 서비스를 하는 회사들인데 GrubHub 처럼 하루에도 몇 만명을 새로 고용하는 회사들이 우리에게 특히 더 많이 의존한다. 이런 회사들은 사람을 빨리 뽑아야 하는데 그렇다고 허투루 뽑을 수 없으니 백그라운드 체크, 인터뷰 스케쥴, 필요한 서류 수집 및 관리 등을 우리 솔루션을 이용해서 자동화한다. 그렇지 않으면 서비스를 빨리 확장하는게 거의 불가능하다.
 

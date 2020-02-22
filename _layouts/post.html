@@ -22,5 +22,7 @@
       <h4>{{ page.date | date: "%m/%d/%Y" }}</h4>
       {{ content }}
     </section>
+    {% if jekyll.environment == 'production' %} {% include ga.html %} {% endif
+    %}
   </body>
 </html>

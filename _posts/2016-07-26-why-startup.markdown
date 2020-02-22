@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "내가 마이크로소프트를 버리고 스타트업에 간 이유"
+title: "내가 스타트업에 간 이유"
 date: 2016-07-26 06:00:00 -0800
 categories: startup
 ---

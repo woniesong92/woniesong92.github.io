@@ -1,3 +1,12 @@
+<style>
+  .share-buttons {
+    display: flex;
+  }
+  .twitter-share-button {
+    margin-left: 5px;
+  }
+</style>
+
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
@@ -11,13 +20,6 @@
     fjs.parentNode.insertBefore(js, fjs);
   })(document, "script", "facebook-jssdk");
 </script>
-
-<!-- Your share button code -->
-<div
-  class="fb-share-button"
-  data-href="{{site.url}}{{ page.url }}"
-  data-layout="button"
-></div>
 
 <script>
   window.twttr = (function(d, s, id) {
@@ -39,9 +41,18 @@
   })(document, "script", "twitter-wjs");
 </script>
 
-<a
-  class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text={{page.title}}&url={{ site.url }}{{ page.url }}"
->
-  Tweet</a
->
+<div class="share-buttons">
+  <!-- Your share button code -->
+  <div
+    class="fb-share-button"
+    data-href="{{site.url}}{{ page.url }}"
+    data-layout="button"
+  ></div>
+
+  <a
+    class="twitter-share-button"
+    href="https://twitter.com/intent/tweet?text={{page.title}}&url={{ site.url }}{{ page.url }}"
+  >
+    Tweet</a
+  >
+</div>

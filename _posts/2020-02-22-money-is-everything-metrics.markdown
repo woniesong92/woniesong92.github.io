@@ -3,7 +3,10 @@ layout: post
 title: "돈이 전부다"
 date: 2020-02-21 06:00:00 -0800
 categories: startup
+thumbnail: /assets/posts/money.jpg
 ---
+
+![Microsoft Badge](/assets/posts/money.jpg){: width="300" }
 
 지난 몇 년간의 경험을 통해서 느낀건 결국엔 돈을 버는게 제일 중요하다는 것이다. 사람들은 흔히 돈이란건 좇을수록 멀리 달아나는 것이고, 좀 더 나아가서 돈만 좇다가는 속물이 되기 쉽다고 말한다. 하지만 사실은 돈은 직접 찾아나서지 않으면 내게 저절로 오기는 커녕 눈 앞에 잘 보이지도 않는다.
 

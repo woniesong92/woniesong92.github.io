@@ -3,6 +3,7 @@ layout: post
 title: "내가 스타트업에 간 이유"
 date: 2016-07-26 06:00:00 -0800
 categories: startup
+thumbnail: /assets/posts/2016-07-26-why-startup/badge.jpg
 ---
 
 난 코넬 대학교를 졸업한 뒤 첫 직장으로 마이크로소프트를 버리고 직원이 10명도 채 안되는 스타트업을 선택했다. 오늘의 글은 내가 왜 이런 결정을 내렸는지 설명하는 글이다.

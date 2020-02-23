@@ -7,7 +7,7 @@
       }
 
       .post__pagination {
-        font-size: 0.8em;
+        margin-top: 15px;
       }
     </style>
   </head>
@@ -19,6 +19,9 @@
       <h4>{{ page.date | date: "%m/%d/%Y" }}</h4>
       {{ content }}
     </section>
+
+    {% include share-buttons.html %}
+
     <div class="post__pagination">
       {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}"

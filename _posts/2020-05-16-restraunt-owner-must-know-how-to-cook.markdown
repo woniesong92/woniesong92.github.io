@@ -25,7 +25,7 @@ thumbnail: /assets/posts/chef.jpg
 P.S. 유튜브에서 우연히 본 영상인데 박진영이 혼자서 노래와 안무를 다 만들어내는걸 보고 이 글을 썼다. 하나는 무려 12년 전에 올라온 영상이다.
 
 <div style="padding-bottom: 10px">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MpHRqaEUMhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="300" height="175" src="https://www.youtube.com/embed/MpHRqaEUMhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pNBTxeAR6oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="175" src="https://www.youtube.com/embed/pNBTxeAR6oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

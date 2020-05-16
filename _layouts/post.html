@@ -21,8 +21,6 @@
       {{ content }}
     </section>
 
-    {% include share-buttons.html %}
-
     <div class="post__pagination">
       {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}"
@@ -33,6 +31,6 @@
       {% endif %}
     </div>
 
-    {% include footer.html %} {% include subscribe.html %}
+    {% include footer.html %}
   </body>
 </html>
